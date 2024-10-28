@@ -3,25 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat" alt="arafat" /></a> </p>
 
-- 🔭 I’m currently working on [-](-)
-
 - 🌱 I’m currently learning **Dicoding, IDN Boarding School**
 
-- 👯 I’m looking to collaborate on **-**
-
-- 🤝 I’m looking for help with **-**
-
 - 👨‍💻 All of my projects are available at [https://s.id/ArafahPortfolio](https://s.id/ArafahPortfolio)
-
-- 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **Flutter, Laravel, PHP**
 
 - 📫 How to reach me **yasserarafat1507@gamil.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yasser-arafat-26875b285/](https://www.linkedin.com/in/yasser-arafat-26875b285/)
-
-- ⚡ Fun fact **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
