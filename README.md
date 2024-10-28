@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Muh Yasser Arafah Mufiyan</h1>
 <h3 align="center">Passionate Front-End and Back_End developer from Indonesia</h3>
 
@@ -45,3 +46,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafat&show_icons=true&locale=en&layout=compact" alt="arafat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat&" alt="arafat" /></p>
+<center>
